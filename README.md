@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AaryaShewale07
+## Hi there, I am Aarya Shewale
 - 👀 I’m interested in art and craft more
 - 🌱 I’m currently learning advanced python
 - 📫 How to reach me drop me a mail aaryashewale0307@gmail.com
