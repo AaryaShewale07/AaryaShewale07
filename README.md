@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarya Shewale</h1>
 <h3 align="center">A passionate frontend developer from India✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryashewale07&label=Profile%20views&color=0e75b6&style=flat" alt="aaryashewale07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaryashewale07" alt="aaryashewale07" /></a> </p>
 
 - 🌱 I’m currently learning **UI/UX, Full stack development,advanced Python**
 
