@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aarya Shewale</h1>
 <h3 align="center">A passionate frontend developer from India✨</h3>
-Images/github-header-image.png
+https://github.com/AaryaShewale07/repository/blob/main/Images/github-header-image.png
+
+
 
 
 
