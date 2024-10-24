@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aarya Shewale</h1>
 <h3 align="center">A passionate frontend developer from India✨</h3>
-![github-header-image](https://github.com/user-attachments/assets/495500d3-9779-4f70-abcb-086c05f7fd33)
+https://github.com/username/repository/blob/main/images/![github-header-image](https://github.com/user-attachments/assets/8de0382c-de59-4784-98dd-0a6077b0af42)
+.png
+
 
 
 - 🌱 I’m currently learning **UI/UX, Full stack development,advanced Python**
