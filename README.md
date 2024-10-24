@@ -17,7 +17,7 @@
 <a href="https://kaggle.com/aaryashewale07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaryashewale07" height="30" width="40" /></a>
 </p>
 <p align="right">
-  <img src="https://i.pinimg.com/originals/54/f7/37/54f737502df8f8f7333ac3a073a392c3.jpg" alt="Profile Image" width="200"/>
+  <img src="https://i.pinimg.com/originals/54/f7/37/54f737502df8f8f7333ac3a073a392c3.jpg" alt="Profile Image" alt="Profile Image without BG" width="200"/>
 </p>
 
 
