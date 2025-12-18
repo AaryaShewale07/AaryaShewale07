@@ -109,12 +109,13 @@
 
 </div>
 
-<div align="left">
-- ✂️ Crafting
-- 🧳 Travelling
-- ☕ Making the perfect coffee
-- 📖 Reading Books
-- 🎵 Listening to Music
+<div align="center">
+  
+● ✂️ Crafting
+● 🧳 Travelling
+● ☕ Making the perfect coffee
+● 📖 Reading Books
+● 🎵 Listening to Music
 
 </div>
 
