@@ -101,25 +101,11 @@
 
 ---
 
-<div align="center">
-
-## 🐍 Watch My Contribution Graph Get Eaten!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AaryaShewale07/AaryaShewale07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AaryaShewale07/AaryaShewale07/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AaryaShewale07/AaryaShewale07/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
 <div align="left">
 
 ## 🎮 When I'm Not Coding...
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" align="center">
 
 - ✂️ Crafting
 - 🧳 Travelling
