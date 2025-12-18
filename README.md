@@ -1,81 +1,81 @@
-<h1 align="center">Hey, I'm Aarya Shewale 👋</h1>
-<h3 align="center">Frontend Developer • UI/UX Enthusiast • Creative Technologist</h3>
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://i.postimg.cc/X73knYbm/github-header-image-2.png" alt="Banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Aarya Shewale</h1>
+<h3 align="center">Frontend Developer • UI/UX Explorer • Creative Thinker</h3>
 
 <p align="center">
-  I build clean, user-focused interfaces where <b>design meets logic</b>.
-  <br/>
-  Passionate about turning ideas into interactive digital experiences ✨
+  I design interfaces that are <b>usable, aesthetic, and intentional</b>.<br>
+  Code is my tool. Design is my mindset.
 </p>
+
+---
+
+## 🧠 About Me
+
+- 🎨 Strong focus on **UI/UX & visual storytelling**
+- 💻 Building skills in **Frontend & Full-Stack Development**
+- 🧪 Learning **Advanced Python**
+- ✨ Art & craft influence how I design digital products
+- 🌱 I care more about **experience** than just functionality
+
+> If it doesn’t feel good to use, it’s not finished.
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://i.postimg.cc/X73knYbm/github-header-image-2.png" alt="Aarya Shewale Header"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,figma,blender,git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🔥 What I’m Working On
 
-- 🎨 Strong interest in **UI/UX design** and **visual aesthetics**
-- 💻 Learning **Full-Stack Development** and **Advanced Python**
-- 🧠 Exploring how **design + engineering** can solve real problems
-- ✈️ Love art, craft, and creative expression beyond code
-
-I don’t just write code — I care about **how it feels to use**.
+- 🚀 UI-focused frontend projects  
+- 🧩 Design-to-code workflows  
+- 🧠 Improving problem-solving through real builds  
+- 🎯 Preparing for internships & industry-ready projects  
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40"/>
-  </a>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/aarya shewale" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-  <a href="https://kaggle.com/aaryashewale07" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/>
-  </a>
-</p>
-
-📩 **Email:** aaryashewale0307@gmail.com  
-😄 **Pronouns:** she / her  
-
----
-
-### 📊 Language Stats
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryashewale07&show_icons=true&locale=en&layout=compact"/>
+  <a href="https://linkedin.com/in/aarya shewale">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://kaggle.com/aaryashewale07">
+    <img src="https://skillicons.dev/icons?i=kaggle" />
+  </a>
+  <a href="mailto:aaryashewale0307@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
 
-### 🏆 Achievements & Badges
+## 📊 Language Breakdown
 
-[![Holopin Badges](https://holopin.me/aaryashewale07)](https://holopin.io/@aaryashewale07)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryashewale07&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Badges & Learning Proof
+
+<p align="center">
+  <a href="https://holopin.io/@aaryashewale07">
+    <img src="https://holopin.me/aaryashewale07" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Always learning. Always creating. Always improving.</i>
+  <i>Design with purpose. Build with intent. Learn relentlessly.</i>
 </p>
