@@ -62,21 +62,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
@@ -87,24 +72,9 @@
 
 <div align="center">
 
-## 🎯 Featured Projects
-
-<a href="https://github.com/YourUsername/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-</a>
-<a href="https://github.com/YourUsername/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aarya-shewale-4b04712ab/">
+<a href="https://www.linkedin.com/in/aarya-shewale-4b04712ab/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="aaryashewale0307@gmail.com">
@@ -145,7 +115,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## 🎮 When I'm Not Coding...
 
