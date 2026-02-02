@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **on a website for a diagnostic center**
+- 🔭 I'm currently working on **on a software for a diagnostic center**
 - 🌱 I'm currently learning **ML & JAVA**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **UI/UX, Web development, Frontend designs**
