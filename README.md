@@ -62,16 +62,6 @@
 
 <div align="center">
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/aarya-shewale-4b04712ab/">
